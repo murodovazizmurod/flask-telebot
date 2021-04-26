@@ -1,0 +1,6 @@
+python-dotenv==0.17.0
+pyTelegramBotAPI==3.7.7
+Flask==1.1.2
+Flask-Script==2.0.6
+Flask-Migrate==2.7.0
+Flask-SQLAlchemy==2.5.1
