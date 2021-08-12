@@ -1,5 +1,8 @@
 # pyTelegramBotAPI + Flask Template
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/murodovazizmurod/flask-telebot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/murodovazizmurod/flask-telebot/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/murodovazizmurod/flask-telebot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/murodovazizmurod/flask-telebot/context:python)
+
 ## Introduction
 
 _This template allows you to create bots with a ready-made database based on the pyTelegramBotAPI library using Flask micro-framework!_
